@@ -1,7 +1,7 @@
 /* day.c
    CSC 111 - Fall 2019 - Assignment 3
 
- Sydney Derksen/V00910431/27/09/19
+ Sydney Derksen/27/09/19
 
  This program is designed to determine what weekday a given month/day/year occurs on
  (inputted by user), given that it is a valid date.
